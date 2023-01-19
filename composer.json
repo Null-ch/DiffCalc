@@ -4,9 +4,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Vladimir Kazakov",
-            "email": "belsynth@gmail.com",
-            "role": "Developer"
+            "name": "Alex Gilev",
+            "email": "zuxobot@yandex.ru",
         }
     ],
     "bin": [
